@@ -1,8 +1,8 @@
 # Pakistan-E-Commerce-Data-Analysis-2016-2018-
 Full-stack analysis of 115K+ Pakistan E-Commerce  customers &amp; 584K+ transactions (2016-2018). Includes  EDA, RFM Segmentation, K-Means Clustering, Sales  Forecasting (Prophet + LightGBM), Churn Prediction  (XGBoost + SHAP). Economics Theory + Data Science.
-<b>
+
 This dataset contains over 1 million real-world e-commerce transactions from Pakistan, covering the period 2016–2018. It provides detailed insights into online shopping behavior, sales performance, order status, and customer trends, making it ideal for exploratory data analysis, business intelligence, and machine learning projects.
-<b>
+
 🔹 Main Points of the Dataset (Key Highlights):
 • Over 1 million e-commerce orders from Pakistan.
 • Covers multiple fiscal years (2016–2018).
